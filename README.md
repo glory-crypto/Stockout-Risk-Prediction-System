@@ -103,3 +103,26 @@ Provides an overview of the number and percentage of records belonging to each r
 Prediction Performance Analysis
 
 Compares actual stockout risk with predicted risk using classification metrics and confusion matrices.
+
+# *Machine Learning Workflow*
+
+Data collection
+Data cleaning
+Data preprocessing
+Feature engineering
+Exploratory data analysis
+Feature selection
+Model training
+Model evaluation
+Stockout risk prediction
+Prediction analysis and visualization
+
+# *Technologies Used*
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
+Jupyter Notebook
+Excel/CSV datasets
